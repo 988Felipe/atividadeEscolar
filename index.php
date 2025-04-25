@@ -11,7 +11,7 @@
 <center>
 	<form method="POST" action="comAlunos.php">
 	<input type="submit" name="" value="Consulta Aluno"> 
-
+	<<?php echo "VAMBORA" ?>
 	</form>
 <br/>
 <br/>
@@ -79,8 +79,7 @@
 
 <br/>
 
-	
-	</center>
+		</center>
 
 
 </body>
